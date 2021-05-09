@@ -14,10 +14,10 @@ Sisteme temel kullanıcı bilgileri , e-posta ve parolayla üye olunabilmelidir.
 
 Kullanıcılar sisteme Google hesapları ile üye olabilmelidir. (Simulasyon)
 
-*) İlerleyen zamanlarda başka yetkilendirme servisleri de kullanılabilir. (Sistemi dış servis entegrasyonu olacak şekilde yapılandırınız.)
-*) Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
+1) İlerleyen zamanlarda başka yetkilendirme servisleri de kullanılabilir. (Sistemi dış servis entegrasyonu olacak şekilde yapılandırınız.)
+2) Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
 
 Kullanıcılar e-posta ve parola bilgisiyle sisteme giriş yapabilmelidir.
 
-*) E-posta ve parola zorunludur.
-*) Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
+1) E-posta ve parola zorunludur.
+2) Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
