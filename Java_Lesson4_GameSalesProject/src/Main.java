@@ -12,7 +12,7 @@ import Entities.User;
 public class Main {
 
 	public static void main(String[] args) {
-	User user1=new User(1,"Muhammed Murat","ACAR",new Date(1996,8,2),"12553095662");
+	User user1=new User(1,"Muhammed Murat","ACAR",new Date(1996,8,2),"12312312312");
 		
 		Game game1=new Game(1,"Grand Theft Auto V PC ",110);
 		
